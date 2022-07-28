@@ -1,3 +1,4 @@
+# the code is fine for linear electrodes, but it might not work for nonstandard probes
 from os import name
 import numpy as np
 import pandas as pd
@@ -5,7 +6,6 @@ import dxfgrabber
 import ezdxf
 import numpy as np
 import pandas as pd
-
 
 
 def save_map_csv(channel_map_x,channel_map_y,channel_map_n,name):
