@@ -1,2 +1,2 @@
 # probe_map
-generate probe map from electrode .dxf file
+Generate channel map for flexible electrodes based on *.dxf electrode design file
